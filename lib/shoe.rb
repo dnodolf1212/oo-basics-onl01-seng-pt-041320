@@ -8,7 +8,7 @@ class Shoe
     @brand
   end
   
-  def repaired?
+  def cobble
   end
   
   
