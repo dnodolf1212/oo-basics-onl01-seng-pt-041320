@@ -8,5 +8,8 @@ class Shoe
     @brand
   end
   
+  def repaired?
+  end
+  
   
 end
